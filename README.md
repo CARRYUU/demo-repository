@@ -4,7 +4,7 @@ Let's add your github in our contributors lists!
 
 ### Contributors
 
-- [leontzou](https://github.com/leontzou)
+- [xxrjun](https://github.com/xxrjun)
 
 ### How to?
 
@@ -31,7 +31,7 @@ Let's add your github in our contributors lists!
 3. 使用 [Markdown](https://markdown.tw/) 語法把自己的 github 加入 contributors 的行列吧! (檔案位置 `./README.md`)。範例如下
 
    ```markdown
-   - [leontzou](https://github.com/leontzou)
+   - [xxrjun](https://github.com/xxrjun)
    ```
 
 4. `git add` → `git commit` → `git push`
