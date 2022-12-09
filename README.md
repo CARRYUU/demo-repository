@@ -10,7 +10,10 @@ Written by [xxrjun](https://github.com/xxrjun)
 
 ## Contributors
 
+- [Joe-qwe](https://github.com/Joe-qwe)
+
 - [leontzou](https://github.com/leontzou)
+
 
 ## How to?
 
