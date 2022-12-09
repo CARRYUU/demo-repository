@@ -7,11 +7,11 @@ Website: [CarryU Contributors](https://carryu-contributors.netlify.app/)
 html and css is borrowed from [Devcrud](https://www.free-css.com/free-css-templates/page284/dorang)
 
 Written by [xxrjun](https://github.com/xxrjun)
-Written by [Elly520](https://github.com/Elly520)
 
 ## Contributors
 
 - [leontzou](https://github.com/leontzou)
+- [Elly520](https://github.com/Elly520)
 
 ## How to?
 
