@@ -79,6 +79,7 @@ Written by [xxrjun](https://github.com/xxrjun)
 
    ```markdown
    - [xxrjun](https://github.com/xxrjun)
+   - [Elly520](https://github.com/Elly520)
    ```
 
 2. `git add` → `git commit`
