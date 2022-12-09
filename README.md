@@ -12,6 +12,8 @@ Written by [xxrjun](https://github.com/xxrjun)
 
 - [leontzou](https://github.com/leontzou)
 
+- [Hank](https://github.com/HankLiu20)
+
 ## How to?
 
 ### 不同版本？ 建立 Branch!
