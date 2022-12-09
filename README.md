@@ -6,6 +6,8 @@ Let's add your github in our contributors lists!
 
 - [xxrjun](https://github.com/xxrjun)
 
+- [leontzou](https://github.com/leontzou)
+
 ### How to?
 
 1. 把 `practice-git` 這個遠端 repo 複製到本地
