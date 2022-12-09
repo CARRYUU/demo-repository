@@ -10,9 +10,16 @@ Written by [xxrjun](https://github.com/xxrjun)
 
 ## Contributors
 
+
 - [Joe-qwe](https://github.com/Joe-qwe)
+=======
+- [xxrjun](https://github.com/xxrjun)
+
 
 - [leontzou](https://github.com/leontzou)
+- [carrie57](https://github.com/carrie57)
+
+- [Hank](https://github.com/HankLiu20)
 
 
 ## How to?
