@@ -10,9 +10,21 @@ Written by [xxrjun](https://github.com/xxrjun)
 
 ## Contributors
 
+
+- [Joe-qwe](https://github.com/Joe-qwe)
+
+- [xxrjun](https://github.com/xxrjun)
+
+
 - [leontzou](https://github.com/leontzou)
 
+- [Elly520](https://github.com/Elly520)
+
+- [carrie57](https://github.com/carrie57)
+
 - [Hank](https://github.com/HankLiu20)
+
+
 
 ## How to?
 
@@ -81,6 +93,7 @@ Written by [xxrjun](https://github.com/xxrjun)
 
    ```markdown
    - [xxrjun](https://github.com/xxrjun)
+   - [Elly520](https://github.com/Elly520)
    ```
 
 2. `git add` → `git commit`
