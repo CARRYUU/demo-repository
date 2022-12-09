@@ -10,6 +10,8 @@ Written by [xxrjun](https://github.com/xxrjun)
 
 ## Contributors
 
+- [xxrjun](https://github.com/xxrjun)
+
 - [leontzou](https://github.com/leontzou)
 
 ## How to?
