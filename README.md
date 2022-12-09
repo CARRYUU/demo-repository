@@ -11,6 +11,7 @@ Written by [xxrjun](https://github.com/xxrjun)
 ## Contributors
 
 - [leontzou](https://github.com/leontzou)
+- [carrie57](https://github.com/carrie57)
 
 ## How to?
 
